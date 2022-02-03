@@ -1,0 +1,5 @@
+This an exemple of {.env} file, which SHOULD NOT be public.
+
+PRIVATE_KEY=""
+INFURA_PROJECT_ID=""
+ETHERSCAN_KEY = ""
